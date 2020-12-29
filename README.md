@@ -3,7 +3,7 @@
 How to detect emotions from speech using **Bi-directional LSTM** networks and **attention** mechanism in Keras
 
 The model is aimed at classifying utterances from the **Berlin Dataset of Emotional Speech** (EMO-DB), according to the expressed emotion.
-Considered emotions are: anger, boredom, disgust, fear, happiness, sadness and neutral.
+Considered emotions are: *anger*, *boredom*, *disgust*, *fear*, *happiness*, *sadness* and *neutral*.
 
 The model is composed by the following steps:
 - ***Feature extraction***: features are extracted by exploiting **Librosa**, a python package for music and audio analysis. Considered features are: *spectral centroid*, *spectral contrast*, *spectral bandwidth*, *spectral rolloff*, *zero crossing rate*, *rms*, *mfcc* and mfcc's *first order derivatives*.

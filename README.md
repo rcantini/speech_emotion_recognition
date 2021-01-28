@@ -15,12 +15,12 @@ The application is composed by the following steps:
 Read more about this: https://riccardo-cantini.netlify.app/post/speech_emotion_detection/
 
 ## Requirements
-tensorflow==2.4.0
-matplotlib==3.3.3
-Keras_Preprocessing==1.1.2
-librosa==0.8.0
-numpy==1.19.5
-imblearn==0.0
-keras==2.4.3
-scikit_learn==0.24.1
-seaborn==0.11.1
+- tensorflow==2.4.0
+- matplotlib==3.3.3
+- Keras_Preprocessing==1.1.2
+- librosa==0.8.0
+- numpy==1.19.5
+- imblearn==0.0
+- keras==2.4.3
+- scikit_learn==0.24.1
+- seaborn==0.11.1

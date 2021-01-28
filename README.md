@@ -11,3 +11,5 @@ The application is composed by the following steps:
 - ***Model training***: I trained a bi-directional LSTM network enhanced with attention.
 - ***Performance evaluation***: I evaluated the trained model using 20 test samples per emotion, achieving 90\% accuracy. In order to assess the benefits brought by the attention mechanism, I also tested a simplified version of the model without attention, achieving about 75\% accuracy, which confirms the effectiveness of the proposed attention mechanism.
 - ***Attention weight visualization***: I analyzed how the system paid attention to the provided audio files while recognizing the different emotions.
+
+Read more about this: https://riccardo-cantini.netlify.app/post/speech_emotion_detection/

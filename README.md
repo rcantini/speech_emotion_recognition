@@ -1,4 +1,4 @@
-# speech_emotion_recognition
+# Emotion Recognition from Speech using Attention
 
 How to detect emotions from speech using **Bi-directional LSTM** and **attention** mechanism in Keras.
 
